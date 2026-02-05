@@ -1,0 +1,599 @@
+{
+  "generated_at": "2026-02-05T17:45:39.039149",
+  "total_challenges": 84,
+  "by_niveau": {
+    "Explorer": 7,
+    "Crafter": 47,
+    "Architecte": 30
+  },
+  "challenges": [
+    {
+      "slug": "ethnographe-des-machines",
+      "titre": "L'Ethnographe des Machines",
+      "niveau": "Explorer",
+      "marque": "Tous",
+      "xp": 100
+    },
+    {
+      "slug": "explorateur-idees-design",
+      "titre": "L'Explorateur d'Idées (Design Ideation)",
+      "niveau": "Explorer",
+      "marque": "FLOW",
+      "xp": 130
+    },
+    {
+      "slug": "boucle-ralph-wiggum",
+      "titre": "La Boucle Ralph Wiggum",
+      "niveau": "Explorer",
+      "marque": "Tous",
+      "xp": 100
+    },
+    {
+      "slug": "le-gardien-des-donnees",
+      "titre": "Le Gardien des Données",
+      "niveau": "Explorer",
+      "marque": "Tous",
+      "xp": 100
+    },
+    {
+      "slug": "le-sculpteur-de-cibles",
+      "titre": "Le Sculpteur de Cibles (Personas)",
+      "niveau": "Explorer",
+      "marque": "FLOW",
+      "xp": 120
+    },
+    {
+      "slug": "les-basiques-du-prompting",
+      "titre": "Les Basiques du Prompting",
+      "niveau": "Explorer",
+      "marque": "Tous",
+      "xp": 100
+    },
+    {
+      "slug": "podcast-running",
+      "titre": "Podcast Running",
+      "niveau": "Explorer",
+      "marque": "Tous",
+      "xp": 100
+    },
+    {
+      "slug": "agent-backlog-po",
+      "titre": "Agent Backlog PO",
+      "niveau": "Crafter",
+      "marque": "Tous",
+      "xp": 100
+    },
+    {
+      "slug": "analyste-feedbacks",
+      "titre": "Analyste Feedbacks",
+      "niveau": "Crafter",
+      "marque": "Tous",
+      "xp": 100
+    },
+    {
+      "slug": "assistant-scrum-master",
+      "titre": "Assistant Scrum Master",
+      "niveau": "Crafter",
+      "marque": "Tous",
+      "xp": 100
+    },
+    {
+      "slug": "brand-voice-designer",
+      "titre": "Brand Voice Designer",
+      "niveau": "Crafter",
+      "marque": "FLOW",
+      "xp": 240
+    },
+    {
+      "slug": "entretien-parcours",
+      "titre": "Entretien → Parcours",
+      "niveau": "Crafter",
+      "marque": "Tous",
+      "xp": 100
+    },
+    {
+      "slug": "analyste-reseau-linkedin",
+      "titre": "L'Analyste de Réseau (LinkedIn Chat)",
+      "niveau": "Crafter",
+      "marque": "FLOW",
+      "xp": 180
+    },
+    {
+      "slug": "architecte-content-system",
+      "titre": "L'Architecte de Content System",
+      "niveau": "Crafter",
+      "marque": "FLOW",
+      "xp": 220
+    },
+    {
+      "slug": "architecte-structure-prd",
+      "titre": "L'Architecte de Structure (PRD & Objets Métiers)",
+      "niveau": "Crafter",
+      "marque": "FLOW",
+      "xp": 310
+    },
+    {
+      "slug": "architecte-vision-board",
+      "titre": "L'Architecte de Vision (Vision Board)",
+      "niveau": "Crafter",
+      "marque": "FLOW",
+      "xp": 200
+    },
+    {
+      "slug": "artisan-du-detail-animated-ui",
+      "titre": "L'Artisan du Détail (Animated UI)",
+      "niveau": "Crafter",
+      "marque": "FLOW",
+      "xp": 170
+    },
+    {
+      "slug": "assistant-eco-conception",
+      "titre": "L'Assistant Éco-Conception",
+      "niveau": "Crafter",
+      "marque": "Tous",
+      "xp": 100
+    },
+    {
+      "slug": "auditeur-grc-augmente",
+      "titre": "L'Auditeur GRC Augmenté",
+      "niveau": "Crafter",
+      "marque": "Tous",
+      "xp": 100
+    },
+    {
+      "slug": "expert-geo",
+      "titre": "L'Expert GEO",
+      "niveau": "Crafter",
+      "marque": "Tous",
+      "xp": 100
+    },
+    {
+      "slug": "expert-identite-visuelle",
+      "titre": "L'Expert Identité Visuelle",
+      "niveau": "Crafter",
+      "marque": "Tous",
+      "xp": 100
+    },
+    {
+      "slug": "explorateur-donnees-browser",
+      "titre": "L'Explorateur de Données (Browser as API)",
+      "niveau": "Crafter",
+      "marque": "VALUE",
+      "xp": 360
+    },
+    {
+      "slug": "integrateur-contexte-dust",
+      "titre": "L'Intégrateur de Contexte (Collaboration Dust)",
+      "niveau": "Crafter",
+      "marque": "Tous",
+      "xp": 250
+    },
+    {
+      "slug": "oreille-du-builder",
+      "titre": "L'Oreille du Builder (Brief Listening)",
+      "niveau": "Crafter",
+      "marque": "FLOW",
+      "xp": 150
+    },
+    {
+      "slug": "la-bd-dont-vous-etes-le-po",
+      "titre": "La BD dont vous êtes le PO",
+      "niveau": "Crafter",
+      "marque": "Tous",
+      "xp": 100
+    },
+    {
+      "slug": "la-fabrique-a-experts",
+      "titre": "La Fabrique à Experts",
+      "niveau": "Crafter",
+      "marque": "Tous",
+      "xp": 160
+    },
+    {
+      "slug": "la-qa-augmentee",
+      "titre": "La QA Augmentée",
+      "niveau": "Crafter",
+      "marque": "SHIELD",
+      "xp": 230
+    },
+    {
+      "slug": "le-changelog-automatique",
+      "titre": "Le Changelog Automatique",
+      "niveau": "Crafter",
+      "marque": "Tous",
+      "xp": 100
+    },
+    {
+      "slug": "chief-question-officer",
+      "titre": "Le Chief Question Officer (CQO)",
+      "niveau": "Crafter",
+      "marque": "FLOW",
+      "xp": 150
+    },
+    {
+      "slug": "cloneur-patterns-mobbin",
+      "titre": "Le Cloneur de Patterns (Mobbin Reference)",
+      "niveau": "Crafter",
+      "marque": "FLOW",
+      "xp": 210
+    },
+    {
+      "slug": "le-coffre-fort",
+      "titre": "Le Coffre-Fort",
+      "niveau": "Crafter",
+      "marque": "Tous",
+      "xp": 100
+    },
+    {
+      "slug": "le-concierge-connecte",
+      "titre": "Le Concierge Connecté",
+      "niveau": "Crafter",
+      "marque": "Tous",
+      "xp": 100
+    },
+    {
+      "slug": "le-conseiller-mckinsey",
+      "titre": "Le Conseiller McKinsey",
+      "niveau": "Crafter",
+      "marque": "FLOW",
+      "xp": 100
+    },
+    {
+      "slug": "consultant-strategique-notebooklm",
+      "titre": "Le Consultant Stratégique Interne (NotebookLM RSS)",
+      "niveau": "Crafter",
+      "marque": "FLOW",
+      "xp": 290
+    },
+    {
+      "slug": "le-data-storyteller",
+      "titre": "Le Data Storyteller",
+      "niveau": "Crafter",
+      "marque": "Tous",
+      "xp": 100
+    },
+    {
+      "slug": "designer-precision-uxpilot",
+      "titre": "Le Designer de Précision (UX Pilot)",
+      "niveau": "Crafter",
+      "marque": "FLOW",
+      "xp": 300
+    },
+    {
+      "slug": "documentaliste-velocite",
+      "titre": "Le Documentaliste de Vélocité (Storybook-Cursor)",
+      "niveau": "Crafter",
+      "marque": "FLOW",
+      "xp": 320
+    },
+    {
+      "slug": "magicien-okrs",
+      "titre": "Le Magicien des OKRs (Tability AI)",
+      "niveau": "Crafter",
+      "marque": "FLOW",
+      "xp": 190
+    },
+    {
+      "slug": "maitre-presentation-gamma",
+      "titre": "Le Maître de la Présentation (Gamma Workflow)",
+      "niveau": "Crafter",
+      "marque": "Tous",
+      "xp": 180
+    },
+    {
+      "slug": "maitre-du-brief-audio",
+      "titre": "Le Maître du Brief (Audio to Text)",
+      "niveau": "Crafter",
+      "marque": "FLOW",
+      "xp": 140
+    },
+    {
+      "slug": "pm-power-user",
+      "titre": "Le PM Power User (Claude Code Commands)",
+      "niveau": "Crafter",
+      "marque": "FLOW",
+      "xp": 250
+    },
+    {
+      "slug": "le-phishing-simulator",
+      "titre": "Le Phishing Simulator",
+      "niveau": "Crafter",
+      "marque": "Tous",
+      "xp": 100
+    },
+    {
+      "slug": "pipeline-builder",
+      "titre": "Le Pipeline Builder",
+      "niveau": "Crafter",
+      "marque": "VALUE",
+      "xp": 250
+    },
+    {
+      "slug": "le-regulatory-watch",
+      "titre": "Le Regulatory Watch",
+      "niveau": "Crafter",
+      "marque": "Tous",
+      "xp": 100
+    },
+    {
+      "slug": "le-simulateur-lean",
+      "titre": "Le Simulateur Lean",
+      "niveau": "Crafter",
+      "marque": "Tous",
+      "xp": 100
+    },
+    {
+      "slug": "le-sparring-partner",
+      "titre": "Le Sparring Partner",
+      "niveau": "Crafter",
+      "marque": "Tous",
+      "xp": 290
+    },
+    {
+      "slug": "system-thinker",
+      "titre": "Le System Thinker (Design Meaningful)",
+      "niveau": "Crafter",
+      "marque": "FLOW",
+      "xp": 380
+    },
+    {
+      "slug": "le-traducteur-quant",
+      "titre": "Le Traducteur Quant",
+      "niveau": "Crafter",
+      "marque": "Tous",
+      "xp": 100
+    },
+    {
+      "slug": "mood-board-2026",
+      "titre": "Mood Board 2026",
+      "niveau": "Crafter",
+      "marque": "Tous",
+      "xp": 100
+    },
+    {
+      "slug": "prd-manager",
+      "titre": "PRD Manager",
+      "niveau": "Crafter",
+      "marque": "FLOW",
+      "xp": 180
+    },
+    {
+      "slug": "prototype-augmente",
+      "titre": "Prototype Augmenté",
+      "niveau": "Crafter",
+      "marque": "FLOW",
+      "xp": 220
+    },
+    {
+      "slug": "use-case-factory",
+      "titre": "Use Case Factory",
+      "niveau": "Crafter",
+      "marque": "Tous",
+      "xp": 100
+    },
+    {
+      "slug": "veille-augmentee",
+      "titre": "Veille Augmentée",
+      "niveau": "Crafter",
+      "marque": "Tous",
+      "xp": 170
+    },
+    {
+      "slug": "vibe-coding-securise",
+      "titre": "Vibe Coding Sécurisé",
+      "niveau": "Crafter",
+      "marque": "Tous",
+      "xp": 100
+    },
+    {
+      "slug": "agcraft",
+      "titre": "AgCraft - Boss Final",
+      "niveau": "Architecte",
+      "marque": "Tous",
+      "xp": 100
+    },
+    {
+      "slug": "audit-securite-agents",
+      "titre": "Audit Sécurité Agents",
+      "niveau": "Architecte",
+      "marque": "Tous",
+      "xp": 100
+    },
+    {
+      "slug": "auditeur-finops",
+      "titre": "Auditeur FinOps",
+      "niveau": "Architecte",
+      "marque": "Tous",
+      "xp": 100
+    },
+    {
+      "slug": "automated-platform-manager",
+      "titre": "Automated Platform Manager",
+      "niveau": "Architecte",
+      "marque": "Tous",
+      "xp": 100
+    },
+    {
+      "slug": "knowledge-graph-architect",
+      "titre": "Knowledge Graph Architect",
+      "niveau": "Architecte",
+      "marque": "Tous",
+      "xp": 100
+    },
+    {
+      "slug": "agilite-augmentee",
+      "titre": "L'Agilité Augmentée",
+      "niveau": "Architecte",
+      "marque": "Tous",
+      "xp": 100
+    },
+    {
+      "slug": "analyste-flux-fi",
+      "titre": "L'Analyste de Flux (Direction Fi)",
+      "niveau": "Architecte",
+      "marque": "FI",
+      "xp": 320
+    },
+    {
+      "slug": "computer-use",
+      "titre": "L'Architecte d'Intention (Computer Use)",
+      "niveau": "Architecte",
+      "marque": "VALUE",
+      "xp": 450
+    },
+    {
+      "slug": "systemes-souverains",
+      "titre": "L'Architecte de Systèmes Souverains",
+      "niveau": "Architecte",
+      "marque": "VALUE",
+      "xp": 420
+    },
+    {
+      "slug": "obeya-room",
+      "titre": "L'Architecte de l'Obeya (Transversal Sync)",
+      "niveau": "Architecte",
+      "marque": "Tous",
+      "xp": 380
+    },
+    {
+      "slug": "employe-numerique",
+      "titre": "L'Employé Numérique",
+      "niveau": "Architecte",
+      "marque": "Tous",
+      "xp": 190
+    },
+    {
+      "slug": "expert-inference-realtime",
+      "titre": "L'Expert en Inférence (Real-Time Symbiote)",
+      "niveau": "Architecte",
+      "marque": "VALUE",
+      "xp": 500
+    },
+    {
+      "slug": "ingenieur-durable",
+      "titre": "L'Ingénieur Durable",
+      "niveau": "Architecte",
+      "marque": "Tous",
+      "xp": 100
+    },
+    {
+      "slug": "ingenieur-handoff-figma",
+      "titre": "L'Ingénieur du Handoff (Figma Sync)",
+      "niveau": "Architecte",
+      "marque": "FLOW",
+      "xp": 280
+    },
+    {
+      "slug": "la-squad-virtuelle",
+      "titre": "La Squad Virtuelle",
+      "niveau": "Architecte",
+      "marque": "Tous",
+      "xp": 500
+    },
+    {
+      "slug": "triade-livraison",
+      "titre": "La Triade de Livraison (Agentic Delivery Cycle)",
+      "niveau": "Architecte",
+      "marque": "FLOW",
+      "xp": 330
+    },
+    {
+      "slug": "conformity-guardian",
+      "titre": "Le Conformity Guardian",
+      "niveau": "Architecte",
+      "marque": "Tous",
+      "xp": 100
+    },
+    {
+      "slug": "createur-univers-marketing",
+      "titre": "Le Créateur d'Univers (Marketing Créatif)",
+      "niveau": "Architecte",
+      "marque": "FLOW",
+      "xp": 300
+    },
+    {
+      "slug": "gardien-systeme-shield",
+      "titre": "Le Gardien du Système (Direction Shield)",
+      "niveau": "Architecte",
+      "marque": "SHIELD",
+      "xp": 340
+    },
+    {
+      "slug": "jumeau-numerique",
+      "titre": "Le Jumeau Numérique",
+      "niveau": "Architecte",
+      "marque": "VALUE",
+      "xp": 450
+    },
+    {
+      "slug": "ml-experimenter",
+      "titre": "Le ML Experimenter",
+      "niveau": "Architecte",
+      "marque": "Tous",
+      "xp": 100
+    },
+    {
+      "slug": "networker-intelligent",
+      "titre": "Le Networker Intelligent",
+      "niveau": "Architecte",
+      "marque": "Tous",
+      "xp": 100
+    },
+    {
+      "slug": "product-builder-ultime",
+      "titre": "Le Product Builder Ultime (Navigator of Uncertainty)",
+      "niveau": "Architecte",
+      "marque": "FLOW",
+      "xp": 480
+    },
+    {
+      "slug": "product-system",
+      "titre": "Le Product System",
+      "niveau": "Architecte",
+      "marque": "FLOW",
+      "xp": 400
+    },
+    {
+      "slug": "protecteur-agence-utilisateur",
+      "titre": "Le Protecteur de l'Agence Utilisateur (Ethical AI UX)",
+      "niveau": "Architecte",
+      "marque": "SHIELD",
+      "xp": 280
+    },
+    {
+      "slug": "sociologue-digital",
+      "titre": "Le Sociologue Digital",
+      "niveau": "Architecte",
+      "marque": "Tous",
+      "xp": 100
+    },
+    {
+      "slug": "superviseur-code",
+      "titre": "Le Superviseur de Code (Direction Value)",
+      "niveau": "Architecte",
+      "marque": "VALUE",
+      "xp": 350
+    },
+    {
+      "slug": "trading-desk-virtuel",
+      "titre": "Le Trading Desk Virtuel",
+      "niveau": "Architecte",
+      "marque": "Tous",
+      "xp": 100
+    },
+    {
+      "slug": "vibe-designer",
+      "titre": "Le Vibe Designer (Building live in Claude)",
+      "niveau": "Architecte",
+      "marque": "FLOW",
+      "xp": 320
+    },
+    {
+      "slug": "modele-en-local",
+      "titre": "Modèle en Local",
+      "niveau": "Architecte",
+      "marque": "Tous",
+      "xp": 100
+    }
+  ]
+}
