@@ -5,10 +5,26 @@
 | Propriété | Valeur |
 |-----------|--------|
 | Type | Architecte |
+| Marque | VALUE |
 | Durée solo | 16h |
 | Durée Dojo | 2 jours (workshop) |
-| Difficulté | ⭐⭐⭐ |
+| Difficulté | ⭐⭐⭐⭐⭐ |
+| XP | 450 |
 | Prérequis | Python, notions de simulation |
+
+---
+
+## Vision & Impact
+
+Implémenter un jumeau numérique (**Digital Twin**) pour obtenir une visibilité totale 24h/24 et 7j/7 sur le niveau de production. Cela permet de simuler des changements et d'optimiser les flux de valeur avant tout déploiement réel.
+
+## Le saviez-vous ?
+
+L'IA permet désormais de corréler des milliers de **signaux faibles** pour prévenir les pannes avant qu'elles n'arrivent. Le jumeau numérique fait passer la maintenance de réactive à prédictive.
+
+## Sources
+
+- [Digital Twins bring 24/7 factory-level visibility](https://www.linkedin.com/posts/michalukropec_digital-twins-bring-247-factory-level-visibility-activity-7406591081028567040-zr4k)
 
 ---
 

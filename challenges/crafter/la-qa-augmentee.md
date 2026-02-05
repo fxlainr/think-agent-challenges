@@ -5,10 +5,26 @@
 | Propriété | Valeur |
 |-----------|--------|
 | Type | Crafter |
+| Marque | SHIELD |
 | Durée solo | 1h |
 | Durée Dojo | 1h |
 | Difficulté | ⭐⭐ |
+| XP | 230 |
 | Prérequis | Notions de base en test logiciel |
+
+---
+
+## Vision & Impact
+
+Faire tourner des tests d'utilisabilité de manière autonome via des agents qui naviguent sur le prototype pour identifier les frictions. L'IA permet de gagner **18 minutes par test de recette globale**.
+
+## Le saviez-vous ?
+
+Le logiciel cesse d'être un outil manipulé pour devenir un système que l'on dirige par l'intention pure. L'IA n'est pas magique ; elle doit être utilisée pour résoudre de réelles difficultés de production.
+
+## Sources
+
+- [L'IA m'a fait gagner 18 min par test QA - Marion Jachimski](https://www.linkedin.com/posts/marion-jachimski-7010996b_lia-ma-fait-gagner-18-min-par-test-qa-activity-7417822957655236608-Cpwn)
 
 ---
 

@@ -5,10 +5,27 @@
 | Propriété | Valeur |
 |-----------|--------|
 | Type | Architecte |
+| Marque | Tous |
 | Durée solo | 4h |
 | Durée Dojo | 4h (workshop) |
 | Difficulté | ⭐⭐⭐⭐ |
+| XP | 190 |
 | Prérequis | n8n, notions d'API REST |
+
+---
+
+## Vision & Impact
+
+"Dupliquer son soi" en entraînant l'IA pour qu'elle trouve tout dans votre environnement et travaille exactement comme vous. L'IA devient un **prolongement de votre identité professionnelle**.
+
+## Le saviez-vous ?
+
+La plupart des utilisateurs veulent que l'IA sonne comme eux pour maintenir l'authenticité de leur marque personnelle. Un "clone" bien entraîné peut gérer 80% des tâches répétitives à votre place.
+
+## Sources
+
+- [Most people want AI to sound like them - Ruben Hassid](https://www.linkedin.com/posts/ruben-hassid_most-people-want-ai-to-sound-like-them-share-7422150189815279616-7Ood)
+- [ChatGPT looks like a toy in 2026 - Ruben Hassid](https://www.linkedin.com/posts/ruben-hassid_chatgpt-looks-like-a-toy-in-2026-i-cant-share-7420324242715672576-U247)
 
 ---
 

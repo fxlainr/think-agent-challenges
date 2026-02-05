@@ -5,10 +5,27 @@
 | Propriété | Valeur |
 |-----------|--------|
 | Type | Architecte |
+| Marque | FLOW |
 | Durée solo | 4h |
 | Durée Dojo | 4h (workshop) |
 | Difficulté | ⭐⭐⭐⭐ |
+| XP | 400 |
 | Prérequis | Product Management, notions d'agents IA |
+
+---
+
+## Vision & Impact
+
+Bâtir un Design System qui se maintient de lui-même en synchronisant le front et les outils de design. C'est la clé pour garantir une **qualité artisanale à l'échelle** sans effort manuel.
+
+## Le saviez-vous ?
+
+Le rôle de **Design Engineer** est la nouvelle étiquette pour ceux qui fusionnent code et design via l'IA. C'est le profil le plus recherché dans les startups produit en 2026.
+
+## Sources
+
+- [I built a Design System that updates itself](https://www.linkedin.com/posts/edwche_i-built-a-design-system-that-updates-itself-activity-7423990160117100544-tucg)
+- [Le rôle de Design Engineer - Noé Chagué](https://www.linkedin.com/posts/noechague_le-r%C3%B4le-de-design-engineer-a-longtemps-%C3%A9t%C3%A9-activity-7419283828231380992--UVX)
 
 ---
 

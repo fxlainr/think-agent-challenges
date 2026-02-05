@@ -5,10 +5,26 @@
 | Propriété | Valeur |
 |-----------|--------|
 | Type | Crafter |
+| Marque | Tous |
 | Durée solo | 45 min |
 | Durée Dojo | 1h |
 | Difficulté | ⭐⭐ |
+| XP | 290 |
 | Prérequis | Aucun |
+
+---
+
+## Vision & Impact
+
+Challenger une stratégie en forçant l'IA à adopter des postures spécifiques : **consultant en stratégie**, avocat du diable ou modérateur de débat. Cela permet de révéler les hypothèses non dites et de cartographier des vues opposées.
+
+## Le saviez-vous ?
+
+L'IA peut identifier les 3 points de levier où de petites actions créent des résultats démesurés. Un bon sparring partner IA vaut 10 réunions de brainstorming.
+
+## Sources
+
+- [Arrêtez de demander à l'IA de résumer - Yassine Chabli](https://www.linkedin.com/posts/yassinechabli_arr%C3%AAtez-de-demander-%C3%A0-lia-de-r%C3%A9sumer-activity-7411310042492137473-TZOj)
 
 ---
 

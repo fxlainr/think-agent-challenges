@@ -5,10 +5,26 @@
 | Propriété | Valeur |
 |-----------|--------|
 | Type | Crafter |
+| Marque | Tous |
 | Durée solo | 2h |
 | Durée Dojo | 1h |
 | Difficulté | ⭐⭐ |
+| XP | 170 |
 | Prérequis | Compte n8n (cloud ou self-hosted) |
+
+---
+
+## Vision & Impact
+
+Créer une machine à veille autonome qui filtre les bruits du marché pour n'extraire que les **signaux faibles pertinents**. L'IA peut corréler des informations provenant de flux RSS et de réseaux sociaux pour identifier des tendances émergentes avant vos concurrents.
+
+## Le saviez-vous ?
+
+Les meilleurs Product Managers ne scrollent plus passivement — ils font travailler l'IA pour eux. Une veille automatisée bien configurée peut vous faire économiser 5-10h par semaine tout en ne manquant aucune information critique.
+
+## Sources
+
+- [J'ai créé une machine à veille avec l'IA - MATS Automation](https://www.linkedin.com/posts/matsautomation_jai-cr%C3%A9%C3%A9-une-machine-%C3%A0-veille-avec-lia-activity-7407313725482954752-j-wO)
 
 ---
 

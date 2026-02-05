@@ -5,10 +5,26 @@
 | Propriété | Valeur |
 |-----------|--------|
 | Type | Crafter |
+| Marque | FLOW |
 | Durée solo | 1h |
 | Durée Dojo | 1h |
 | Difficulté | ⭐⭐ |
+| XP | 240 |
 | Prérequis | Aucun |
+
+---
+
+## Vision & Impact
+
+Déployer une voix de marque unique via ElevenLabs pour humaniser les interfaces et les interactions clients. L'IA vocale devient un **partenaire de confiance** dans le parcours utilisateur.
+
+## Le saviez-vous ?
+
+ElevenLabs a construit son succès en traitant l'IA non comme un robot, mais comme un véritable utilisateur vocal empathique. La voix est le prochain frontier de l'identité de marque.
+
+## Sources
+
+- [How ElevenLabs built an AI user](https://open.substack.com/pub/departmentofproduct/p/deep-how-elevenlabs-built-an-ai-user)
 
 ---
 

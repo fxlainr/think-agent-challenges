@@ -5,10 +5,26 @@
 | Propriété | Valeur |
 |-----------|--------|
 | Type | Crafter |
+| Marque | FLOW |
 | Durée solo | 1h |
 | Durée Dojo | 1h |
 | Difficulté | ⭐⭐ |
+| XP | 100 |
 | Prérequis | Aucun |
+
+---
+
+## Vision & Impact
+
+Ne demandez plus à l'IA de résumer, mais d'extraire des **insights stratégiques**. L'IA devient votre analyste McKinsey capable d'identifier les décisions que chaque information éclaire.
+
+## Le saviez-vous ?
+
+L'IA peut aussi agir comme un **avocat du diable** pour révéler les angles morts d'un texte. La plupart des dirigeants sous-exploitent cette capacité de challenge constructif.
+
+## Sources
+
+- [Arrêtez de demander à l'IA de résumer - Yassine Chabli](https://www.linkedin.com/posts/yassinechabli_arr%C3%AAtez-de-demander-%C3%A0-lia-de-r%C3%A9sumer-activity-7411310042492137473-TZOj)
 
 ---
 

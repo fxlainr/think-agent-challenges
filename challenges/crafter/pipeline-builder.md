@@ -5,10 +5,26 @@
 | Propriété | Valeur |
 |-----------|--------|
 | Type | Crafter |
+| Marque | VALUE |
 | Durée solo | 4h |
 | Durée Dojo | 4h (workshop) |
 | Difficulté | ⭐⭐⭐ |
+| XP | 250 |
 | Prérequis | SQL, notions de data engineering |
+
+---
+
+## Vision & Impact
+
+Utiliser N8N pour créer des automatisations qui chaînent vos outils (Linear, Slack, Figma) sans écrire de code d'infrastructure. On ne gère plus des tâches, on **orchestre des flux de valeur**.
+
+## Le saviez-vous ?
+
+N8N est en train d'exploser car il permet de fabriquer ses propres outils sur mesure en quelques minutes. C'est l'outil préféré des "solopreneurs" et des équipes produit agiles.
+
+## Sources
+
+- [N8N explose pour la création de workflows - Louis Graffeuil](https://www.linkedin.com/posts/louisgraffeuil_n8n-explose-pour-la-cr%C3%A9ation-de-workflows-activity-7423997481090306048-m3J5)
 
 ---
 

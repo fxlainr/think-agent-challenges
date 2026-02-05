@@ -5,10 +5,26 @@
 | Propriété | Valeur |
 |-----------|--------|
 | Type | Crafter |
+| Marque | FLOW |
 | Durée solo | 1h |
 | Durée Dojo | 1h |
 | Difficulté | ⭐⭐ |
+| XP | 180 |
 | Prérequis | Notions de gestion de produit |
+
+---
+
+## Vision & Impact
+
+Rédiger ses spécifications (PRD) en utilisant l'IA pour creuser les **objets métiers** et les scénarios d'utilisation complexes. Une spec bien décomposée est le socle indispensable pour que les agents de coding produisent un résultat fonctionnel.
+
+## Le saviez-vous ?
+
+Savoir **décomposer son intention** est LA compétence fondamentale du PM en 2026. L'IA peut tout produire, mais c'est votre capacité à clarifier ce que vous voulez qui fait la différence entre un prototype bancal et un produit solide.
+
+## Sources
+
+- [PRD avec l'IA - Marion Jachimski](https://www.linkedin.com/posts/marion-jachimski-7010996b_productmanagement-aiforpm-delivery-activity-7407670823781552128-jF--)
 
 ---
 

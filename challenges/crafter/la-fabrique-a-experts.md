@@ -5,10 +5,26 @@
 | Propriété | Valeur |
 |-----------|--------|
 | Type | Crafter |
+| Marque | Tous |
 | Durée solo | 2h |
 | Durée Dojo | 1h |
 | Difficulté | ⭐⭐ |
+| XP | 160 |
 | Prérequis | Compte Google (pour NotebookLM) |
+
+---
+
+## Vision & Impact
+
+Transformer la documentation interne en tuteur interactif via **Google Learn** ou NotebookLM pour une montée en compétence "just-in-time". L'éducation vient de changer pour toujours.
+
+## Le saviez-vous ?
+
+"Regarder n'est pas faire" : l'apprentissage par l'IA doit être orienté projet pour être efficace. Les formations passives ont un taux de rétention de 5%, les formations par la pratique montent à 75%.
+
+## Sources
+
+- [Education just changed forever - Google Learn](https://www.linkedin.com/posts/axellemalek_education-just-changed-forever-google-activity-7418965212109676545-F2Hb)
 
 ---
 

@@ -5,10 +5,27 @@
 | Propriété | Valeur |
 |-----------|--------|
 | Type | Architecte |
+| Marque | Tous |
 | Durée solo | 3h |
 | Durée Dojo | 1h (version accélérée) |
-| Difficulté | ⭐⭐⭐ |
+| Difficulté | ⭐⭐⭐⭐⭐ |
+| XP | 500 |
 | Prérequis | Connaissance des rôles CPO, CTO, Growth |
+
+---
+
+## Vision & Impact
+
+Concevoir une architecture où une seule personne orchestre des agents pour viser un impact business massif. On ne se considère plus comme un effectif, mais comme un **orchestrateur de système**.
+
+## Le saviez-vous ?
+
+"Watching isn't doing" : la maîtrise vient de la fabrication de ses propres outils et flux. Les "one-person teams" les plus efficaces en 2026 sont celles qui ont automatisé leur propre processus de décision.
+
+## Sources
+
+- [How to make $1B in 2026 as a one-person team](https://www.mattprd.com/p/how-to-make-1b-in-2026-as-a-one-person-team)
+- [Je ne me considère plus comme un effectif - Salim Laimeche](https://www.linkedin.com/posts/salimlaimeche_aujourdhui-je-ne-me-consid%C3%A8re-plus-comme-activity-7414296783721459714-HNkI)
 
 ---
 

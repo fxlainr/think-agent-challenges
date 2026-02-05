@@ -5,10 +5,26 @@
 | Propriété | Valeur |
 |-----------|--------|
 | Type | Crafter |
+| Marque | FLOW |
 | Durée solo | 1h |
 | Durée Dojo | 1h |
 | Difficulté | ⭐⭐ |
+| XP | 220 |
 | Prérequis | Figma (ou outil de prototypage), accès IA |
+
+---
+
+## Vision & Impact
+
+Bâtir une "Story IA" complète en utilisant Miro pour le brainstorming et Lovable pour générer le prototype fonctionnel directement depuis le board. Cela permet de **construire la bonne chose plus vite, ensemble**.
+
+## Le saviez-vous ?
+
+Miro et Lovable s'intègrent désormais pour transformer vos user flows en applications réelles en quelques clics. Le design et le prototypage ne sont plus deux étapes séparées.
+
+## Sources
+
+- [Miro x Lovable - Daiana Kaplan](https://www.linkedin.com/posts/daianakaplan_two-of-my-favorite-ai-products-just-changed-ugcPost-7407675332239036416-6DX8)
 
 ---
 
