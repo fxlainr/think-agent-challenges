@@ -1,6 +1,6 @@
 -- Script de synchronisation des challenges
--- Généré le 2026-02-05 17:45:39
--- Total: 84 challenges
+-- Généré le 2026-02-05 19:16:37
+-- Total: 85 challenges
 
 -- Utilise slug comme identifiant unique pour l'upsert
 -- Créer une contrainte unique sur titre si pas déjà fait
@@ -233,6 +233,41 @@ INSERT INTO challenges (
     NULL,
     NULL,
     '[]'::jsonb,
+    'Manuelle',
+    'Actif',
+    'Solo',
+    '[]'::jsonb,
+    '[]'::jsonb
+)
+ON CONFLICT (titre) DO UPDATE SET
+    description = EXCLUDED.description,
+    niveau_associe = EXCLUDED.niveau_associe,
+    difficulte = EXCLUDED.difficulte,
+    duree_estimee = EXCLUDED.duree_estimee,
+    xp = EXCLUDED.xp,
+    marque = EXCLUDED.marque,
+    vision_impact = EXCLUDED.vision_impact,
+    le_saviez_vous = EXCLUDED.le_saviez_vous,
+    sources = EXCLUDED.sources,
+    updated_at = NOW();
+
+
+INSERT INTO challenges (
+    titre, description, niveau_associe, type, difficulte, 
+    duree_estimee, xp, marque, vision_impact, le_saviez_vous, sources,
+    type_evaluation, statut, participants, outils_recommandes, livrables
+) VALUES (
+    'Prompt Maestro',
+    'Vous avez besoin d''un assistant spécialisé mais vous ne savez pas comment le "programmer" ? Le Maestro vous pose les bonnes questions, identifie vos besoins, et génère un prompt système utilisant les meilleures techniques. ---',
+    'Explorer',
+    'Exercice',
+    1,
+    '30 min',
+    150,
+    'Tous',
+    'Créer des prompts système professionnels sans être expert en prompting. Le **Prompt Maestro** connaît toutes les techniques (few-shot, chain-of-thought, role-playing, etc.) et vous guide pour produire un prompt optimisé en quelques questions.',
+    'Un prompt bien structuré peut améliorer la qualité des réponses de 40-60%. La différence entre un utilisateur lambda et un expert, c''est souvent juste la structure du prompt.',
+    '["https://docs.anthropic.com/claude/docs/prompt-engineering", "https://platform.openai.com/docs/guides/prompt-engineering"]'::jsonb,
     'Manuelle',
     'Actif',
     'Solo',

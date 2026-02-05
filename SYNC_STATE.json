@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-02-05T17:45:39.039149",
-  "total_challenges": 84,
+  "generated_at": "2026-02-05T19:16:37.212679",
+  "total_challenges": 85,
   "by_niveau": {
-    "Explorer": 7,
+    "Explorer": 8,
     "Crafter": 47,
     "Architecte": 30
   },
@@ -55,6 +55,13 @@
       "niveau": "Explorer",
       "marque": "Tous",
       "xp": 100
+    },
+    {
+      "slug": "prompt-maestro",
+      "titre": "Prompt Maestro",
+      "niveau": "Explorer",
+      "marque": "Tous",
+      "xp": 150
     },
     {
       "slug": "agent-backlog-po",
