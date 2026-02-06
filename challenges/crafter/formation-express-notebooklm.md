@@ -1,4 +1,4 @@
-# La Fabrique à Experts
+# Formation Express avec NotebookLM
 
 ## Métadonnées
 
