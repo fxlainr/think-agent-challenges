@@ -2980,3 +2980,41 @@ ON CONFLICT (titre) DO UPDATE SET
     le_saviez_vous = EXCLUDED.le_saviez_vous,
     sources = EXCLUDED.sources,
     updated_at = NOW();
+
+
+-- Challenge ajouté manuellement le 2026-02-06
+INSERT INTO challenges (
+    titre, description, niveau_associe, type, difficulte, 
+    duree_estimee, xp, marque, vision_impact, le_saviez_vous, sources,
+    type_evaluation, statut, participants, outils_recommandes, livrables
+) VALUES (
+    'Mon Premier Agent n8n - Gestionnaire de Tâches',
+    'Construis ton premier agent IA conversationnel avec n8n ! Tu vas créer un assistant capable de gérer une liste de tâches stockée dans Google Sheets : créer, lire, modifier et supprimer des tâches en langage naturel. C''est le "Hello World" des agents IA — simple mais puissant.',
+    'Explorer',
+    'Exercice',
+    2,
+    '45 min',
+    100,
+    'Tous',
+    'Les agents IA autonomes sont la prochaine révolution. Alors que les chatbots classiques se contentent de répondre, les agents agissent : ils lisent des données, prennent des décisions et exécutent des actions. Ce challenge t''initie à cette nouvelle ère.',
+    'Le concept d''agent IA remonte aux années 1990, mais c''est l''arrivée des LLM comme GPT-4 qui l''a rendu accessible. Aujourd''hui, avec des outils no-code comme n8n, tu peux créer en 45 minutes ce qui aurait demandé des semaines de développement il y a 2 ans.',
+    '["https://docs.n8n.io/integrations/builtin/cluster-nodes/root-nodes/n8n-nodes-langchain.agent/", "https://docs.n8n.io/integrations/builtin/cluster-nodes/sub-nodes/n8n-nodes-base.googlesheetstool/"]'::jsonb,
+    'Manuelle',
+    'Actif',
+    'Solo',
+    '["n8n", "Google Sheets", "OpenAI API"]'::jsonb,
+    '["Workflow n8n fonctionnel exporté en JSON", "Screenshot de l''interface de chat avec conversation de test", "Google Sheet avec tâches créées via l''agent"]'::jsonb
+)
+ON CONFLICT (titre) DO UPDATE SET
+    description = EXCLUDED.description,
+    niveau_associe = EXCLUDED.niveau_associe,
+    difficulte = EXCLUDED.difficulte,
+    duree_estimee = EXCLUDED.duree_estimee,
+    xp = EXCLUDED.xp,
+    marque = EXCLUDED.marque,
+    vision_impact = EXCLUDED.vision_impact,
+    le_saviez_vous = EXCLUDED.le_saviez_vous,
+    sources = EXCLUDED.sources,
+    outils_recommandes = EXCLUDED.outils_recommandes,
+    livrables = EXCLUDED.livrables,
+    updated_at = NOW();
